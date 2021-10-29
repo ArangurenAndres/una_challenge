@@ -1,2 +1,3 @@
 # una_challenge
-una coding challenge glucose data
+
+The challenge is contained the notebook una_challenge
